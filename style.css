@@ -159,6 +159,18 @@ p {
 .footer-section {
     width: 20%;
     margin: 0 auto;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer-section:hover {
+    text-decoration: underline;
+}
+
+.social-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 h3 {
@@ -216,6 +228,12 @@ h3 {
     }
 
     .kartu-tim {
+        width: 50%;
+    }
+
+    .social-logo {
+        display: block;
+        text-align: center;
         width: 50%;
     }
 }
