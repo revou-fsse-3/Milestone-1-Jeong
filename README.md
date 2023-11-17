@@ -18,7 +18,7 @@ I'm currently exploring exciting opportunities in my career journey as a **Softw
 
 ---
 
-## 📝 Project Milestone 1
+## 📝 Project Milestone 1 - Create a company profile page using HTML & CSS, Responsive, Deploy with Custom Domain
 
 **Final Deployment**
 
